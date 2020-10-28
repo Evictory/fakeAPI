@@ -7,14 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-    "curiosities": [
-    { "description": "Sabiq eu  o eu...", "image": "hehe" },
-    { "description": "Você sabia que...", "image": "SS" },
-    { "description": "A quantidade de doadores no brasil...", "image": "AA" },
-    { "description": "Essa poderia ser engraçada", "image": "BB" }
+  },
+  "curiosities":[
+  { "description": "Sabiq eu  o eu...", "image": "hehe" },
+  { "description": "Você sabia que...", "image": "SS" },
+  { "description": "A quantidade de doadores no brasil...", "image": "AA" },
+  { "description": "Essa poderia ser engraçada", "image": "BB" }
   ],
-  "infoMessagesStep": [
+  "infoMessagesStep":[
     {
       "description": "Lorem Ipson",
       "step": 1
@@ -43,7 +43,7 @@
       "contact": "22333",
     },
   ],
-  "infoMessages": [
+  "infoMessages":[
     {
       "description": "Lorem Ipson",
       "brotherImage": "HeartZip",
